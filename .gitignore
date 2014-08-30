@@ -12,5 +12,4 @@ Assets/SaveData/*
 *.sln
 *.csproj
 *.pidb
-*.meta
 Assets/Thumbs.db.meta
