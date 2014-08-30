@@ -22,7 +22,7 @@ public class LevelManager : MonoBehaviour
 	{
 		while(ballsAlive < ballsCount)
 		{
-			gameFactory.
+
 		}
 	}
 }
